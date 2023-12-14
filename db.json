@@ -1,7 +1,7 @@
 {
   "posts": [
     {
-      "error": "OK",
+      "error": 200,
       "msg": "Succes"
     }
   ],
