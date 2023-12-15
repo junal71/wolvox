@@ -1,8 +1,8 @@
 {
   "posts": [
     {
-      "error": 400,
-      "msg": "Fail"
+      "error": 200,
+      "msg": "Success"
     }
   ],
   "profile": {
